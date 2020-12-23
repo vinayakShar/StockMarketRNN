@@ -1,3 +1,3 @@
-# https://www.rnnstockmodeling.com/
+CHECKOUT WEBSITE: # https://www.rnnstockmodeling.com/
 
 Writeup and DEMO of project is on the website ^^
